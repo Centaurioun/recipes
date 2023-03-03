@@ -33,7 +33,7 @@
     "fs-extra": "10.0.0",
     "husky": "7.0.4",
     "image-size": "1.0.0",
-    "open": "8.4.0",
+    "open": "8.4.1",
     "prettier": "2.5.0",
     "simple-git": "2.48.0",
     "targz": "1.0.1"
